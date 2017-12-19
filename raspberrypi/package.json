@@ -1,0 +1,18 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "GearVR Motor Actuator Code",
+  "main": "start-peripheral.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gearvr"
+  ],
+  "author": "Tal Stramer",
+  "license": "ISC",
+  "dependencies": {
+    "bleno": "^0.4.1",
+    "python-shell": "^0.4.0"
+  }
+}

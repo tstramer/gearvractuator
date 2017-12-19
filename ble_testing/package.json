@@ -1,0 +1,18 @@
+{
+  "name": "ble_util",
+  "version": "1.0.0",
+  "description": "Utility for communicating with Raspberry Pi Motor Controller over Bluetooth",
+  "main": "write-to-pi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ble",
+    "gearvr"
+  ],
+  "author": "Tal Stramer",
+  "license": "ISC",
+  "dependencies": {
+    "noble": "^1.7.0"
+  }
+}
